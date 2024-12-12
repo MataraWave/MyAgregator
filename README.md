@@ -119,3 +119,4 @@ Accédez à http://localhost:3000/aggregator/files pour voir les fichiers récup
 2. Intégrer plus de sources de données (API REST, fichiers locaux, etc.).
 3. Mettre en place un pipeline de traitement en temps réel avec RabbitMQ ou Kafka.
 4. Créer une base de données pour stocker les métadonnées.
+0
